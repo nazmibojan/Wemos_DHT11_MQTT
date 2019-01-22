@@ -1,3 +1,7 @@
+#include <DHT.h>
+#include <PubSubClient.h>
+#include <ESP8266WiFi.h>
+
 void setup() {
   // put your setup code here, to run once:
 
